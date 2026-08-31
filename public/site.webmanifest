@@ -1,0 +1,12 @@
+{
+  "name": "VisionaryAds",
+  "short_name": "VisionaryAds",
+  "description": "Facebook and Instagram ad management and website builds for construction, plumbing, and home-improvement businesses.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1b2429",
+  "theme_color": "#1b2429",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
