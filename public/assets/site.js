@@ -108,6 +108,8 @@
       if (notSent) notSent.hidden = true;
       if (sent) sent.hidden = false;
       window.scrollTo({ top: 0, behavior: 'smooth' });
+      if (typeof window.gtag === 'function') window.gtag('event', 'generate_lead');
+      if (typeof window.fbq === 'function') window.fbq('track', 'Lead');
     }
     function showError(message) {
       if (!error) {
