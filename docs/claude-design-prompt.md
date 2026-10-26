@@ -95,7 +95,7 @@ Heading: Ad Management — How It Works
 Photos and video: Send me what you've got from finished jobs, or if I have the time, I'll come shoot it myself.
 
 Heading: Website Builds
-A website build is a flat $500, built page by page around your business, not a template. Turnaround is usually 3 to 5 business days. If you want it kept up over time, ongoing maintenance is $100 a month, optional, never required.
+A website build is a flat $1,000, built page by page around your business, not a template. Turnaround is usually 3 to 5 business days. If you want it kept up over time, ongoing maintenance is $250 a month, optional, never required.
 
 Once your site is live and actually working for you, that's usually when it makes sense to talk about ad management, so the people who land on it are people who were looking for you in the first place.
 
